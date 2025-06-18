@@ -8,3 +8,6 @@ https://xyzalezz.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/
 #EXTINF:-1 tvg-id="Lega A - Brescia vs Virtus Bologna" tvg-name="19:30 Lega A : Brescia vs Virtus Bologna - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Eurosport 2 IT
 https://xyzalezz.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ain vs Juventus" tvg-name="02:00 FIFA Club World Cup : Al Ain vs Juventus - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1
+https://xyzalezz.onrender.com/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true
+
